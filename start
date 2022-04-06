@@ -17,7 +17,7 @@ apt update && apt upgrade -y
 apt install git -y
 _other_installs
 pip3 install -U pip
-git clone https://github.com/Godfatherakkii/DEADLY-SPAMBOT Github_Repo
+git clone https://github.com/Godfatherakkii/Zaid-Vc-Player Github_Repo
 cd Github_Repo
 pip3 install -U -r requirements.txt
 _externals

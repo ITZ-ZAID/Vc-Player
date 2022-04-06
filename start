@@ -21,4 +21,4 @@ git clone https://github.com/Godfatherakkii/DEADLY-SPAMBOT Github_Repo
 cd Github_Repo
 pip3 install -U -r requirements.txt
 _externals
-python3 main.py
+python -m Godfather

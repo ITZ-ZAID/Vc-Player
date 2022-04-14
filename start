@@ -15,6 +15,7 @@ _externals () {
     
 apt update && apt upgrade -y
 apt install git -y
+apt-get install ffmpeg -y
 _other_installs
 pip3 install -U pip
 git clone https://github.com/ITZ-ZAID/Zaid-Vc-Player Github_Repo
